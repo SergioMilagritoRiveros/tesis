@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 605556d44e3889745a855877ff1d832c
+  - enabled: 1
+    path: Assets/Scenes/Jumanji.unity
+    guid: ecebcdf5021ee764fab259d32678af89
+  - enabled: 1
+    path: Assets/Scenes/Concentrece.unity
+    guid: a387b0d11ce9dd44a82347a06680a66a
+  - enabled: 1
+    path: Assets/Scenes/Puertas.unity
+    guid: d09f563d3ab607144af1645870bfca38
+  m_configObjects: {}
